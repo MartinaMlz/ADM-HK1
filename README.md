@@ -13,18 +13,18 @@ There are different types of exercises that we should done until the deadline.
 # PROBLEM 1 (Basics of Python)
 
 - Introduction (all – total: 7 - max points: 75)
-- Numpy (all – total: 15 - max points: 300)
+- Numpy (all – total: 15 - max points: 300) (I didnt do just 1 exercise of this group)
 - Sets (all – total: 13 - max points: 170)
 - Exceptions (only 1 - max points: 10)
 - Python Functionals (only 1 - max points: 20)
-- Closures and Decorations (all – total: 2 - max points: 60)
+- Closures and Decorations (all – total: 2 - max points: 60) (I didnt do just 1 exercise of this group)
 - Date and Time (all – total: 2 - max points: 40)
 - Data types (all – total: 6 - max points: 60)
 - Collections (all – total: 8 - max points: 220)
 - Built-ins (only 3 - max points: 80)
 - XML (all – total: 2 - max points: 40)
 - Strings (all – total: 14 - max points: 220)
-- Regex and Parsing challenges (all – total: 17 - max points: 560)
+- Regex and Parsing challenges (all – total: 17 - max points: 560) (I didnt do just 3 exercises of this group)
 
 
 # PROBLEM 2 (Challenges)
